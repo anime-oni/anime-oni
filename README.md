@@ -7,3 +7,5 @@ My name is **Anime Oni** and down below you can learn more about me!
 • Learning front-end development!
 ### Thing to Know!
 • Do NOT PING ME IN BG.
+• My pronouns are ‘he/him‘ or ‘they/them‘
+• My religion is Islam.
