@@ -6,6 +6,4 @@ My name is **Anime Oni** and down below you can learn more about me!
 • Creating a website, URL https://anime-oni.is-a.dev/ :)<br>
 • Learning front-end development!<br>
 ### Thing to Know!
-• Do NOT PING ME IN BG.<br>
-• My pronouns are "he/him" or whatever<br>
-• My religion is Islam.
+• My pronouns are they/them<br>
